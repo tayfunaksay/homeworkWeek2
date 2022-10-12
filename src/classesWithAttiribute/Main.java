@@ -6,6 +6,8 @@ public class Main {
 		
 		Product product = new Product();
 		product.name="Laptop";
+		product.id=1;
+		product.description="Asus Laptop";
 		System.out.println(product.name);
 
 	}
